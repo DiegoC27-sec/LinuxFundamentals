@@ -1,0 +1,2 @@
+echo - Output any text that we provide.
+whoami - Find out what user we're currently logged in as.
